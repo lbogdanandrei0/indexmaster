@@ -1,0 +1,10 @@
+*.class
+*.log
+.idea
+.metadata
+.settings
+Export
+Logs
+Session
+Source
+
